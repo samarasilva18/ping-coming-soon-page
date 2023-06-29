@@ -59,6 +59,8 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
+Mobile-first solution using CSS Grid, Flexbox, CSS Variables.
+
 ### What I learned
 
 I expanded on my use of grids, which was a nice challenge! I previously had only made a very simple grid so to make something that actually used both grid-column, gaps and grid-row was quite fun and also helped me understand how that feature works a bit better!
