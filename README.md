@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-css-grid-flexbox-css-variables-1yRpKwko_o)
 - Live Site URL: [Live Site](https://samarasilva18.github.io/ping-coming-soon-page)
 
 ## My process
